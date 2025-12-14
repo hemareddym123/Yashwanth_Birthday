@@ -11,7 +11,7 @@ export default function Landing() {
       </p>
 
       <p className="small">
-        From your favorite sister-in-law 💅
+        From your most loved brother and favorite sister-in-law 💅
       </p>
 
       <Link to="/exes" className="btn">Begin the Chaos</Link>

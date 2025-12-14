@@ -1,8 +1,10 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(135deg, #0f0f0f, #1c1c1c);
-  color: #fff;
+ 
+
+  background-color: #BF1A1A;
+  background-size: cover;
 }
 
 .page {
@@ -17,12 +19,13 @@ body {
 }
 
 h1 {
-  color: #ff4d6d;
+  color: #060771;
 }
 
 p {
   max-width: 600px;
   line-height: 1.6;
+  color: #FFE08F;
 }
 
 .small {
@@ -44,7 +47,7 @@ img {
 .btn {
   margin-top: 20px;
   padding: 12px 24px;
-  background: #ff4d6d;
+  background: #060771;
   color: white;
   text-decoration: none;
   border-radius: 25px;
